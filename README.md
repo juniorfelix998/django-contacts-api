@@ -1,1 +1,1 @@
-# contactListApp
+# DJANGO CONTACTS REST API
